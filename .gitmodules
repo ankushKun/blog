@@ -8,3 +8,6 @@
 [submodule "ankushes-blog/themes/terminal"]
 	path = ankushes-blog/themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "ankushes-blog/themes/edidor"]
+	path = ankushes-blog/themes/edidor
+	url = https://github.com/sfengyuan/edidor
