@@ -1,0 +1,4 @@
+baseURL = 'http://ankushKun.github.io/'
+languageCode = 'en-us'
+title = 'Ankush Singhs BLog'
+theme = 'hugo-theme-console'

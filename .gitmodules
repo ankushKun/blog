@@ -1,0 +1,7 @@
+[submodule "ankushes-blog/themes/hugo-theme-console"]
+	path = ankushes-blog/themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "ankushes-blog/public"]
+	path = ankushes-blog/public
+	url = git@github.com:ankushKun/ankushKun.github.io.git
+	branch = main
