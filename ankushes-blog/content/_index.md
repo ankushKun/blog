@@ -1,9 +1,14 @@
 ---
-title: "Index"
+title: "Homepage"
 ---
+
 
 ## Hi, welcome to my Portfolio + Blog
 
-<img alt="avatar" style="width:150px; border-radius:5px;float:right;" src="https://cdn.discordapp.com/attachments/952560619264020510/952560671848038440/nihon.png">
+🦾 Read more [about me](/whoami)
 
 🛠 Checkout my [projects](/projects)
+
+📜 Read my [blog posts](/posts)
+
+⛓ Connect with me on [other platforms](/connect)

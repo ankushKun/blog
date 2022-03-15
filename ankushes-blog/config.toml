@@ -12,7 +12,6 @@ paginate = 5
   showLastUpdated = true
   updateDatePrefix = "Last Updated On"
   readingTime = true
-  custom_css = ["static/css/custom.css"]
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -41,8 +40,16 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "/whoami"
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "Projects"
         url = "/projects"
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/posts"
+      [[languages.en.menu.main]]
+        identifier = "connect"
+        name = "Connect"
+        url = "/connect"
